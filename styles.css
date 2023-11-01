@@ -13,7 +13,15 @@ padding: 10px;
 margin: 10px;
 background: darkgrey;
 }
+
+a {
+ text-decoration: none; /* remove underlining on anchor tags */
+ color: midnightblue; /* pick the color you want */
+}
+
+
 .assign img {
 width: 200px;
 padding: 10px;
+border: 2px solid midnightblue;
 }
